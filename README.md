@@ -1,5 +1,3 @@
-# AttendanceSystemWithAntiSpoofing
-Attendance System With Anti Spoofing using yolov8 and face-reognition using live firebase database
 # Real time Attendadnce system with Anti-spoofing
 
 Real-Time Face Recognition Attendance System
